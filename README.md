@@ -1,2 +1,3 @@
 # UKAN2023
-Jupyter notebooksused in the UKAN2023 Underwater Acoustics Hackathon
+
+Jupyter notebooks used in the UKAN2023 Underwater Acoustics Hackathon
